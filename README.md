@@ -1,5 +1,7 @@
 <p align="center">
-Monkey Pox Detection using Deep Learning
+<p align="center">
+  <img src="Monkey Pox Detection Using Deep Learning.png" />
+</p>
 </p>
 
 
