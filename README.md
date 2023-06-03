@@ -7,7 +7,7 @@ of availability of a proper detection methodology for the  masses , deep learnin
 
 ## Approach 
 
-###System architecture 
+### System architecture 
 
 •	The model uses EfficientNetB3, a pre-trained deep neural network, to create a custom image classification model for binary classification tasks.
 
@@ -37,7 +37,7 @@ of availability of a proper detection methodology for the  masses , deep learnin
 
 •	The accuracy and loss metrics are used to evaluate the performance of the model.
 
-###Algorithms, Techniques
+### Algorithms, Techniques
 
 A custom image classification model for binary classification tasks is created in this work, with the EfficientNetB3 model serving as a base. 
 The pre-trained weights of the EfficientNetB3 model are utilized through transfer learning to extract features from input images. To prevent overfitting,
