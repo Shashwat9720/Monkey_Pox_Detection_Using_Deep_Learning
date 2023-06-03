@@ -1,5 +1,5 @@
 <p align="center">
-# Monkey Pox Detection using Deep Learning
+Monkey Pox Detection using Deep Learning
 </p>
 ## Motivation
 
