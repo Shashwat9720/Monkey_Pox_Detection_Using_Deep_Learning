@@ -73,4 +73,9 @@ loss metrics.
 
 
 ## Result
-
+<p align="center">
+  <img src="Result 1.jpeg" />
+</p>
+<p align="center">
+  <img src="Result 2.jpeg" />
+</p>
