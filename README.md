@@ -1,6 +1,8 @@
 <p align="center">
 Monkey Pox Detection using Deep Learning
 </p>
+
+
 ## Motivation
 
 As seen with the peculiar scenario of the covid-19 pandemic an earlier proactive reaction to the spread of  the virus during the infant stages of the pandemic could  have prevented the pandemic at the first place, learning  the lessons from the mistakes and observing the recent  surge in monkeypox cases and adding on to that the lack
